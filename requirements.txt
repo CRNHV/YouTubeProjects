@@ -1,0 +1,9 @@
+matplotlib
+mss
+notebook
+numpy
+opencv_python
+Pillow
+PyDirectInput
+pynput
+tensorflow==2.5.0

@@ -1,0 +1,1 @@
+Images for swing recording will be stored here
