@@ -172,8 +172,8 @@ resources
     |...
 ```
 1. Download FFmpeg executable to `resources` directory
-    1. The FFmpeg executable can be downloaded from [here](https://ffmpeg.org/download.html) by following the steps for steps for your platform
-    2. If you are on Linux, you can download the FFmpeg executable to the `resources` directory using the following commands:
+    1. The FFmpeg executable can be downloaded from [here](https://ffmpeg.org/download.html). Since we will be deploying to Lambda, we need to use the Linux static release
+    2. The FFmpeg executable can be downloaded to the `resources` directory using the following commands:
        ```
        wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
        tar -xf ffmpeg-release-amd64-static.tar.xz
