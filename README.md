@@ -14,7 +14,7 @@ Each branch has it's own README with instructions on how to run the code. There 
 
 ## FAQs
 ### Why is the code from each video stored on a separate branch, instead of a separate repository?
-GitHub Sponsors only allows me to automatically grant access to one repository, so all of the code needs to be contained within one repository. In order to separate each project, I put the code from each video on a separate branch. If they add they ability to grant access to multiple repositories in the future, then this may change.
+GitHub Sponsors only allows me to automatically grant access to one repository, so all of the code needs to be contained within a single repository. In order to keep each project separate from one another, I put the code from each video on a separate branch. If they add they ability to grant access to multiple repositories in the future, then this may change.
 
 ### Why use GitHub Sponsors instead of Patreon or another platform?
-GitHub Sponsors allows me to grant access to the code automatically. When I was using Patreon I would have to manually manage access to the GitHub organization, which could lead to delays in accessing the code.
+GitHub Sponsors allows me to grant access to the code automatically. When I was using Patreon I would have to manually manage access to the GitHub organization, which could lead to delays in accessing the code. Additionally, it keeps both the payment and rewards all on GitHub, instead of having it split between GitHub and Patreon. I believe this leads to a more seamless experience for both myself and you.
