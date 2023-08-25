@@ -7,7 +7,7 @@ If you are not interested in completley automating the process of uploading the 
 
 ## Associated Videos
 - [Original YouTube video](https://youtu.be/vLOgzi5y9xE)
-- [Code walkthrough video]()
+- Code walkthrough video (Coming very soon)
 
 ## Prerequisites
 - [Eleven Labs API](https://api.elevenlabs.io/docs)
@@ -32,7 +32,7 @@ This Lambda function serves as the callback function in the [OAuth 2.0 flow](htt
 ### Setup and Deploy the Lambda Function
 1. Start by creating a new AWS Lambda function
     1. Set the runtime to `Python 3.9`
-    2. Under the advanced settingscheck the box for `Enable function URL` and select `NONE` for the `Auth type` setting
+    2. Under the advanced settings check the box for `Enable function URL` and select `NONE` for the `Auth type` setting
     3. Once the function is created you can find the function URL under the `Configuration` tab. Note down this function URL for later
 2. Create a DynamoDB table to store YouTube access tokens
     1. Go to DynamoDB in AWS and create a new table with the name `AccessKeys`
@@ -159,15 +159,15 @@ After completing the setup steps, the directory structure should look like:
 resources
 │   Futura.ttc
 │   intro.mp3
-|   ffmpeg
+│   ffmpeg
 │
 └───clips
-|   │   get_clips.py
-|   |   1.mp4
-|   |   2.mp4
-|   |   3.mp4
-|   |   ...
-|
+│   │   get_clips.py
+│   │   1.mp4
+│   │   2.mp4
+│   │   3.mp4
+│   │   ...
+│
 └───vosk
     |...
 ```
