@@ -7,7 +7,7 @@ If you are not interested in completley automating the process of uploading the 
 
 ## Associated Videos
 - [Original YouTube video](https://youtu.be/vLOgzi5y9xE)
-- Code walkthrough video (Coming very soon)
+- [Code walkthrough video](https://youtu.be/h0fMblOdYXU)
 
 ## Prerequisites
 - [Eleven Labs API](https://api.elevenlabs.io/docs)
