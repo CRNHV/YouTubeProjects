@@ -59,7 +59,7 @@ This Lambda function serves as the callback function in the [OAuth 2.0 flow](htt
         ```
     3. Install the `requests` package
         ```
-        pip install --target ./package requests
+        pip install --target ./package requests==2.29.0
         ```
     4. Create .zip file with installed packages
         ```
@@ -84,7 +84,6 @@ This Lambda function serves as the callback function in the [OAuth 2.0 flow](htt
     https://accounts.google.com/o/oauth2/v2/auth?
         scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube&
         access_type=offline&
-        response_type=code&
         include_granted_scopes=true&
         response_type=code&
         redirect_uri=<Lambda function URL>&
@@ -117,7 +116,7 @@ If your OAuth app has a publishing status of `Testing` then the refresh token wi
         ```
     3. Install the `requests` package
         ```
-        pip install --target ./package requests
+        pip install --target ./package requests==2.29.0
         ```
     4. Create .zip file with installed packages
         ```
