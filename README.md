@@ -2,6 +2,7 @@
 This repository holds the code from all of my YouTube videos and will be automatically updated whenever a new video comes out.
 
 The code for each video is stored on a separate branch. In order to view the code from the video you want, you can use the links below (sorted from newest to oldest)
+- [I Created a Graph of Wikipedia](https://github.com/adumb-yt/YouTubeProjects/tree/WikipediaGraph)
 - [I Challenged AI to Create a Better YouTube Channel Than Me... Here's What Happened](https://github.com/adumb-yt/YouTubeProjects/tree/YouTubeAutomation)
 - [AI Learns to Play Wii Sports](https://github.com/adumb-yt/YouTubeProjects/tree/WiiSportsBaseballAI)
 - [Using AI to Create the Perfect Keyboard](https://github.com/adumb-yt/YouTubeProjects/tree/KeyboardGeneticAlgorithm)
