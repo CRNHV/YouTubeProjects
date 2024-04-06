@@ -13,6 +13,8 @@ You can also view all the branches [here](https://github.com/adumb-yt/YouTubePro
 
 Each branch has it's own README with instructions on how to run the code. There is also an `Associated Videos` section at the top of each README which has links to any coding walkthrough / bonus videos associated with the code.
 
+If you have questions or problems with the code, you can submit an issue. Make sure to mention which project you are working on when you submit the issue.
+
 ## FAQs
 ### Why is the code from each video stored on a separate branch, instead of a separate repository?
 GitHub Sponsors only allows me to automatically grant access to one repository, so all of the code needs to be contained within a single repository. In order to keep each project separate from one another, I put the code from each video on a separate branch. If they add they ability to grant access to multiple repositories in the future, then this may change.
