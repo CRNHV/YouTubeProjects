@@ -13,6 +13,11 @@ You can also view all the branches [here](https://github.com/adumb-yt/YouTubePro
 
 Each branch has it's own README with instructions on how to run the code. There is also an `Associated Videos` section at the top of each README which has links to any coding walkthrough / bonus videos associated with the code.
 
+To clone a specific branch:
+```
+git clone -b <branch> https://github.com/adumb-yt/YouTubeProjects.git
+```
+
 If you have questions or problems with the code, you can submit an issue. Make sure to mention which project you are working on when you submit the issue.
 
 ## FAQs
