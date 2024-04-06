@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "extract_pages",
+    "extract_links",
+    "extract_categories"
+]

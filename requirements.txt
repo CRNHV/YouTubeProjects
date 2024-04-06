@@ -1,0 +1,2 @@
+igraph==0.10.8
+leidenalg==0.10.1
